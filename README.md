@@ -2,4 +2,4 @@
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
-Adam Jacob. 2021. Manually transcribed Mojave Desert Tortoise (Gopherus agassizi) interaction records.
+Adam Jacob Eichenwald. 2021. Manually transcribed Mojave Desert Tortoise (Gopherus agassizi) interaction records.

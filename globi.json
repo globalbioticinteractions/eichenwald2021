@@ -9,7 +9,7 @@
     } ],
     "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
     "url" : "Desert.tortoise.interactions.tsv",
-    "dcterms:bibliographicCitation" : "Adam Jacob. 2021. Manually transcribed Mojave Desert Tortoise (Gopherus agassizi) interaction records.",
+    "dcterms:bibliographicCitation" : "Adam Jacob Eichenwald. 2021. Manually transcribed Mojave Desert Tortoise (Gopherus agassizi) interaction records.",
     "delimiter" : "\t",
     "headerRowCount" : 1,
     "null" : [ "" ],
