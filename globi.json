@@ -1,0 +1,52 @@
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "Desert.tortoise.interactions.tsv",
+    "dcterms:bibliographicCitation" : "Adam Jacob. 2021. Manually transcribed Mojave Desert Tortoise (Gopherus agassizi) interaction records.",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "sourceTaxonName",
+        "titles" : "sourceTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "interactionTypeName",
+        "titles" : "interactionTypeName",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "targetTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "localityName",
+        "datatype" : "string"
+      }, {
+        "name" : "http://rs.tdwg.org/dwc/terms/eventDate",
+        "titles" : "observationDateTime",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceDoi",
+        "titles" : "referenceDoi",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceUrl",
+        "titles" : "referenceUrl",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "referenceCitation",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
+}
